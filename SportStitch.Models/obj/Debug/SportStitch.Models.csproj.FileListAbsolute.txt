@@ -1,0 +1,6 @@
+C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Models\bin\Debug\SportStitch.Models.dll
+C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Models\bin\Debug\SportStitch.Models.pdb
+C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Models\obj\Debug\SportStitch.Models.csprojAssemblyReference.cache
+C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Models\obj\Debug\SportStitch.Models.csproj.CoreCompileInputs.cache
+C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Models\obj\Debug\SportStitch.Models.dll
+C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Models\obj\Debug\SportStitch.Models.pdb
