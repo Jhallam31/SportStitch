@@ -15,6 +15,12 @@ namespace SportStitch.Data.Tables
         public string TeamName { get; set; }
         public ICollection<Player> PlayersOnTeam { get; set; }
         public ICollection<Coach> CoachesForTeam { get; set; }
+        public int PlayerCount { 
+            get 
+            { 
+                return PlayersOnTeam.Count(); 
+            } 
+        }
 
 
         [ForeignKey(nameof(Sport))]

@@ -14,3 +14,5 @@ C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Data\obj\
 C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Data\obj\Debug\SportStitch.Data.csproj.CopyComplete
 C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Data\obj\Debug\SportStitch.Data.dll
 C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Data\obj\Debug\SportStitch.Data.pdb
+C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Data\obj\Debug\SportStitch.Data.Migrations.firstMigrate.resources
+C:\Users\jenna\Documents\CodingPractice\SportStitch.WebMVC\SportStitch.Data\obj\Debug\SportStitch.Data.csproj.GenerateResource.cache
