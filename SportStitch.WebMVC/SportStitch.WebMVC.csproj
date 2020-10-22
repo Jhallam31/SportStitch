@@ -232,27 +232,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
-    <Compile Include="Models\CoachModels\CoachCreate.cs" />
-    <Compile Include="Models\CoachModels\CoachDetail.cs" />
-    <Compile Include="Models\CoachModels\CoachEdit.cs" />
-    <Compile Include="Models\CoachModels\CoachListItem.cs" />
-    <Compile Include="Models\LeagueModels\LeagueCreate.cs" />
-    <Compile Include="Models\LeagueModels\LeagueDetail.cs" />
-    <Compile Include="Models\LeagueModels\LeagueEdit.cs" />
-    <Compile Include="Models\LeagueModels\LeagueListItem.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
-    <Compile Include="Models\PlayerModels\PlayerCreate.cs" />
-    <Compile Include="Models\PlayerModels\PlayerDetail.cs" />
-    <Compile Include="Models\PlayerModels\PlayerEdit.cs" />
-    <Compile Include="Models\PlayerModels\PlayerListItem.cs" />
-    <Compile Include="Models\SportModels\SportCreate.cs" />
-    <Compile Include="Models\SportModels\SportDetail.cs" />
-    <Compile Include="Models\SportModels\SportEdit.cs" />
-    <Compile Include="Models\SportModels\SportListItem.cs" />
-    <Compile Include="Models\TeamModels\TeamCreate.cs" />
-    <Compile Include="Models\TeamModels\TeamDetail.cs" />
-    <Compile Include="Models\TeamModels\TeamEdit.cs" />
-    <Compile Include="Models\TeamModels\TeamListItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
